@@ -6,7 +6,7 @@ A user-friendly machine learning web app that predicts the **genre of a music tr
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://ADS-21-music_genre.streamlit.app)  
+👉 [Click here to try the app](https://musicgenre-fxj97pxequravucf8jswam.streamlit.app/)  
 
 
 ---
