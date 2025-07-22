@@ -48,3 +48,4 @@ A user-friendly machine learning web app that predicts the **genre of a music tr
    ```bash
    git clone https://github.com/your-username/music-genre-classifier.git
    cd music-genre-classifier
+<img width="1914" height="1025" alt="image" src="https://github.com/user-attachments/assets/8bf6c320-df4b-4cf7-ac91-a16a385e611d" />
